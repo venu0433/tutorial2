@@ -1,4 +1,2 @@
 # tutorial2
-
-
-: This is Gopal .....
+This is venu gopal added new contant this file
